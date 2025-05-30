@@ -1,6 +1,6 @@
-# YOLOv8 Object Detection – IIITH Internship 2025
+# YOLOv8 Object Detection – Short Term IIITH Internship 2025
 
-This repository contains my work as part of the **IIIT Hyderabad Internship Program 2025**, where I'm learning to implement object detection using **YOLOv8** developed by **Ultralytics**. The main goal is to get comfortable with new tools quickly, apply them to real-world tasks, and grow through hands-on practice.
+This repository contains my work as part of the **Short Term iHub Internship 2025**, where I'm learning to implement object detection using **YOLOv8** developed by **Ultralytics**. The main goal is to get comfortable with new tools quickly, apply them to real-world tasks, and grow through hands-on practice.
 
 ---
 
