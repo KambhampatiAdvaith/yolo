@@ -1,5 +1,3 @@
-# yolo_project
-
 # Object Detection with YOLOv8 - IIIT Hyderabad Internship 2025
 
 Welcome to the repository for my internship project at IIIT Hyderabad, focused on real-time object detection using YOLOv8 (You Only Look Once, Version 8) by Ultralytics.
