@@ -1,22 +1,25 @@
-# Object Detection with YOLOv8 - IIIT Hyderabad Internship 2025
+# YOLOv8 Object Detection – IIITH Internship 2025
 
-Welcome to the repository for my internship project at IIIT Hyderabad, focused on real-time object detection using YOLOv8 (You Only Look Once, Version 8) by Ultralytics.
+This repository contains my work as part of the **IIIT Hyderabad Internship Program 2025**, where I'm learning to implement object detection using **YOLOv8** developed by **Ultralytics**. The main goal is to get comfortable with new tools quickly, apply them to real-world tasks, and grow through hands-on practice.
 
-##  Project Overview
+---
 
-This project demonstrates the use of pretrained YOLOv8 models for detecting objects in images. It is part of the Internship Program 2025 designed to foster rapid skill acquisition and hands-on experience with real-world AI/ML applications.
+## 🔍 What This Project Is About
 
-## Objectives
+The focus is on:
+- Using **pretrained YOLOv8 models** to detect objects in images.
+- Understanding how object detection works in real-time applications.
+- Gaining practical experience working with one of the most popular deep learning models in computer vision.
 
-- Understand and implement object detection using YOLOv8.
-- Explore the process of loading pretrained models and running inference on custom images.
-- Analyze the results and visualize detected objects.
+This is my starting point for exploring the world of object detection.
 
-## Tech Stack
+---
 
-- **Language**: Python 3.8+
-- **Framework**: Ultralytics YOLOv8
-- **Libraries**: `ultralytics`, `opencv-python`, `matplotlib`
-- **Environment**: Jupyter Notebook / Python Script
+## ⚙️ Tech Stack & Tools
 
+- **Python 3.8+**
+- **YOLOv8 (Ultralytics)**
+- Libraries: `ultralytics`, `opencv-python`, `matplotlib`
+- Environment: Jupyter Notebook or standalone Python script
 
+---
