@@ -1,0 +1,25 @@
+# C:\Users\K Advaith\OneDrive\Desktop\yolo_project\african_wildlife_config.yaml
+
+# path: Absolute path to the ROOT of your extracted dataset folder.
+# Use forward slashes for paths.
+path: C:\Users\K Advaith\OneDrive\Desktop\yolo_project\african-wildlife # ADJUST THIS TO YOUR ACTUAL PATH
+
+# train: Path to training images, RELATIVE to the 'path' above.
+# Ensure 'Train' or 'train' matches the actual folder name on your disk.
+train: train/images
+
+# val: Path to validation images, RELATIVE to the 'path' above.
+# Ensure 'Valid' or 'valid' or 'val' matches the actual folder name on your disk.
+val: valid/images
+
+# test: (Optional) Path to test images, RELATIVE to the 'path' above.
+# test: test/images
+
+# Classes: These MUST match the classes the dataset is annotated for.
+# The order also matters if the label files use numeric IDs.
+# The Kaggle dataset page should confirm these classes.
+names:
+  0: buffalo
+  1: elephant
+  2: rhino
+  3: zebra
