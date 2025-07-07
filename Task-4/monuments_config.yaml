@@ -1,0 +1,46 @@
+# C:/Users/K Advaith/OneDrive/Desktop/yolo_project/monuments_config.yaml
+
+# path: This is the ABSOLUTE path to your dataset's root folder.
+# IMPORTANT: Use forward slashes and quotes if the path has spaces.
+path: "C:/Users/K Advaith/OneDrive/Desktop/yolo_project/Task 4/Monuments dataset"
+
+# These paths are RELATIVE to the 'path' defined above.
+train: images/train
+val: images/val
+
+# Class names: Define your custom classes here.
+# The order (0, 1, ...) MUST match the class IDs from LabelImg.
+names:
+  # All items in this list MUST be indented (2 spaces is standard).
+  0: "Easter Island"
+  1: "Eiffel tower"
+  2: "Golden Gate Bridge"
+  3: "The Great Wall of China"
+  4: "Ha Long Bay"
+  5: "Tower of Pisa"
+  6: "Macchu Pichhu"
+  7: "Mount Saint"
+  8: "Mount Rushmore"
+  9: "Neuschwantein castle"
+  10: "Opera house"
+  11: "Pyramids"
+  12: "Sagrada familia"
+  13: "Statue of liberty"
+  14: "Bradenburg Gate"
+  15: "Victoria Falls"
+  16: "Taj Mahal"
+  17: "Seattle Space Needle"
+  18: "Burj Khalifa"
+  19: "Burj Al Arab"
+  20: "Empire State building"
+  21: "Colosseum"
+  22: "Taipei 101"
+  23: "Lion Statue"
+  24: "Red Telephone Booth"
+  25: "Big Ben (Elizabeth Tower)"
+  26: "Arc de Triomphe"
+  27: "St. Basil's Cathedral"
+  28: "Berlin TV Tower (Fernsehturm)"
+  29: "Alhamra Palace"
+  30: "Lincoln Memorial"
+  31: "Notre-Dame Cathedral"
