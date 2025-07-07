@@ -1,39 +1,6 @@
-# YOLOv8 Object Detection – Short Term IIITH Internship 2025
-
-This repository contains my work as part of the **Short Term iHub Internship 2025**, where I'm learning to implement object detection using **YOLOv8** developed by **Ultralytics**. The main goal is to get comfortable with new tools quickly, apply them to real-world tasks, and grow through hands-on practice.
-
----
-
-## 🔍 What This Project Is About
-
-The focus is on:
-- Using **pretrained YOLOv8 models** to detect objects in images.
-- Understanding how object detection works in real-time applications.
-- Gaining practical experience working with one of the most popular deep learning models in computer vision.
-
-This is my starting point for exploring the world of object detection.
-
----
-
-## ⚙️ Tech Stack & Tools
-
-- **Python 3.8+**
-- **YOLOv8 (Ultralytics)**
-- Libraries: `ultralytics`, `opencv-python`, `matplotlib`
-- Environment: Jupyter Notebook or standalone Python script
-
----
-
 # IIITH AI/ML Internship: End-to-End Computer Vision Projects
 
-![YOLOv8 Banner](https://github.com/ultralytics/assets/raw/main/yolov8/banner-yolov8.png)
-
 A repository documenting the projects and skills developed during my AI/ML Research Internship at the **International Institute of Information Technology, Hyderabad (IIITH)**. This work covers the complete pipeline of modern computer vision, from data processing and custom dataset creation to model training, evaluation, and interpretation using YOLOv8.
-
-**Author:** [Your Name]  
-**LinkedIn:** [[Your Name]]([Link to your LinkedIn profile])  
-**GitHub:** [[Your GitHub Username]]([Link to your GitHub profile])
-
 ---
 
 ## 📜 Project Overview
@@ -59,14 +26,6 @@ The core skills demonstrated across these tasks include:
   - Utilized **FFmpeg** via Python's `subprocess` module to programmatically extract frames from a video and re-compile annotated frames back into a final output video.
 - **Outcome:** A fully automated script that takes a video, processes each frame with a YOLOv8 model, and generates a new video with the detections overlaid. This established a strong foundation in video data manipulation.
 
-<details>
-<summary><strong>Click to see a sample segmented frame</strong></summary>
-
-_This is where you can put an image of your segmented bus from Task 1/2_
-![Segmented Bus](link/to/your/bus_segmentation_output.jpg) 
-
-</details>
-
 ---
 
 ### 📊 Task 3: Model Training and Results Interpretation
@@ -81,8 +40,6 @@ _This is where you can put an image of your segmented bus from Task 1/2_
   - **PR and F1 Curves:** Understood the trade-off between precision and recall and identified optimal confidence thresholds.
 - **Outcome:** A solid understanding of how to evaluate a model's performance quantitatively and qualitatively, a crucial skill for iterating and improving any ML model.
 
-![Confusion Matrix for African Wildlife](link/to/your/confusion_matrix.png)
-_Sample confusion matrix from the African Wildlife training run._
 
 ---
 
