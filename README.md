@@ -1,23 +1,10 @@
 # IIITH AI/ML Internship: End-to-End Computer Vision Projects
 
-A repository documenting the projects and skills developed during my Online Internship at iHub(IIITH). This work covers the complete pipeline of modern computer vision, from data processing and custom dataset creation to model training, evaluation, and interpretation using YOLOv8.
-
----
-## 📜 Project Overview
-
-This internship provided a comprehensive, hands-on journey through the entire lifecycle of a machine learning project. The tasks were designed to build practical skills in object detection and segmentation, culminating in the creation of a fully custom object detector.
-
-The core skills demonstrated across these tasks include:
-- **End-to-End ML Pipeline Implementation:** Managing projects from raw data to a final, predictive model.
-- **Custom Dataset Creation & Annotation:** Building high-quality, labeled datasets for bespoke computer vision tasks.
-- **Model Training & Fine-Tuning:** Leveraging state-of-the-art models like YOLOv8 and training them on new data.
-- **Critical Performance Analysis:** Moving beyond simple accuracy metrics to deeply understand and interpret model behavior through graphs and visualizations.
+This repository consists of tasks completed during my Online Internship at iHub(IIITH). This work covers the complete pipeline of modern computer vision, from data processing and custom dataset creation to model training, evaluation, and interpretation using YOLOv8.
 
 ---
 
-## 🚀 Key Tasks and Accomplishments
-
-### 🎯 Task 1 & 2: YOLOv8 Setup and Video Processing
+###  Task 1 & 2: YOLOv8 Setup and Video Processing
 
 - **Objective:** Set up the Ultralytics YOLOv8 environment and apply it to a real-world video processing task.
 - **Process:**
@@ -28,7 +15,7 @@ The core skills demonstrated across these tasks include:
 
 ---
 
-### 📊 Task 3: Model Training and Results Interpretation
+###  Task 3: Model Training and Results Interpretation
 
 - **Objective:** Train a YOLOv8 model on a public benchmark dataset and learn to interpret the results.
 - **Process:**
@@ -43,7 +30,7 @@ The core skills demonstrated across these tasks include:
 
 ---
 
-### 🏛️ Task 4: Building a Custom Monument Detector
+### Task 4: Building a Custom Monument Detector
 
 - **Objective:** Apply all previously learned skills to create a custom object detector for a unique problem: identifying world monuments. This was the capstone project demonstrating the end-to-end workflow.
 - **Process:**
