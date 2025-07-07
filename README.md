@@ -1,8 +1,8 @@
 # IIITH AI/ML Internship: End-to-End Computer Vision Projects
-
-A repository documenting the projects and skills developed during my AI/ML Research Internship at the International Institute of Information Technology, Hyderabad (IIITH). This work covers the complete pipeline of modern computer vision, from data processing and custom dataset creation to model training, evaluation, and interpretation using YOLOv8.
 ---
+A repository documenting the projects and skills developed during my AI/ML Research Internship at the International Institute of Information Technology, Hyderabad (IIITH). This work covers the complete pipeline of modern computer vision, from data processing and custom dataset creation to model training, evaluation, and interpretation using YOLOv8.
 
+---
 ## 📜 Project Overview
 
 This internship provided a comprehensive, hands-on journey through the entire lifecycle of a machine learning project. The tasks were designed to build practical skills in object detection and segmentation, culminating in the creation of a fully custom object detector.
