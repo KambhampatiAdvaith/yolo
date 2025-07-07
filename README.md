@@ -45,7 +45,7 @@ This repository consists of tasks completed during my Online Internship at iHub(
   - The final model, while trained on a small dataset, proved the viability of the entire pipeline.
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 - **Languages:** Python
 - **Core Libraries:** PyTorch, Ultralytics (YOLOv8), OpenCV, Pandas, NumPy
